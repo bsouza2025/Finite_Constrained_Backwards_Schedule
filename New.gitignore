@@ -1,0 +1,12 @@
+# Office junk
+~$*
+*.tmp
+*.bak
+*.xlk
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Optional: ignore big Excel binaries
+workbook/*.xlsm
